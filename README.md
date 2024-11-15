@@ -23,7 +23,7 @@ Create an Express application that returns a custom error message for invalid ro
 Your project folder should look like this:  
 
 ```bash  
-18-express-cutom-error-handling-node-problem/  
+18-express-custom-error-handling-node-problem/  
 ├── server.js             # Express server script  
 ├── README.md             # Documentation for this problem  
 └── package.json          # Project configuration file  
